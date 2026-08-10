@@ -3,4 +3,6 @@ cell_images/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+*.pt
+*.pth
 .DS_Store
